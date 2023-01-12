@@ -79,6 +79,10 @@ nav ul li a {
     transform: translateY(-50%);
 }
 
+.powerpoints{
+    background-color: #161B34;
+}
+
 h1 {
     color: #A4BBE1;
     font-size: 75px;
